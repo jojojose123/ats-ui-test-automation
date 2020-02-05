@@ -19,11 +19,14 @@ Framework Structure
    2. Test Data - CSV file
 
    Folder Structure
-       Src --
-            |--data.providers -  Binders between Test data csv files and Test cases
-            |--pages          - Where all UI elements and UI actions implemented as a page object
-            |--tests          - Where all test cases orgnized
-            |--test-data      - Physical location of Test data csv file
+
+       -src > data.providers -  Binders between Test data csv files and Test cases
+
+       -src > pages          - Where all UI elements and UI actions implemented as a page object
+
+       -src > tests          - Where all test cases orgnized
+
+       -src > test-data      - Physical location of Test data csv file
 
 
 Execution:
